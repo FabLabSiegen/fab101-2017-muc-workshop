@@ -5,7 +5,7 @@ site_favicon: 'images/favicon-32x32.png'
 
 pages:
     - About: 'index.md'
-    - Structure : 'structure.md'
+    - Makerspace : 'makerspace.md'
     - Organizers: 'organizers.md'
     - Participate: 'participate.md'
     - Proceedings: 'proceedings.md'

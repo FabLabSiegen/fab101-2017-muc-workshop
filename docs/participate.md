@@ -11,7 +11,7 @@ We invite contributors from academia, practice, activism and any other communiti
 
 
 ## Important Dates
-#### June 16, 2017: [submission](/participate) deadline
+#### June 16, 2017: submission deadline
 #### June 23, 2017: notification of acceptance / program update
 #### July 07, 2017: deadline for camera ready submission
 #### September 10, 2017: Workshop at Mensch und Computer
@@ -19,7 +19,7 @@ We invite contributors from academia, practice, activism and any other communiti
 
 ## Original workshop proposal
 
-The full [proposal for the Workshop at MuC in PDF form]() contains most of the information reflected on this website as well as additional references.
+The full [proposal for the Workshop at MuC in PDF form](/images/2017MuCwsdigifabacademicpractices.pdf) contains most of the information reflected on this website as well as additional references.
 
 ## Submit your contribution
 

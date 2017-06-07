@@ -19,7 +19,7 @@ This workshop at [MuC 2017 conference](http://muc2017.mensch-und-computer.de/) i
 
 ## Workshop description as PDF
 
-The full [proposal for the Workshop at Muc in PDF form]() contains most of the information reflected on this website as well as additional references.
+The full [proposal for the Workshop at Muc in PDF form](/images/2017MuCwsdigifabacademicpractices.pdf) contains most of the information reflected on this website as well as additional references.
 
 
 ----
