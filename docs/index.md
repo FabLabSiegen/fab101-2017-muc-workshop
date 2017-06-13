@@ -23,7 +23,7 @@ The motto of makerspace is 'make, hack, learn and share' and is organized by the
 Interested in [participating](/participate)?
 
 ## Important Dates
-#### September 11, 2017: Maker Space at Mensch und Computer
+#### September 11, 2017: Come to the Maker Space at Mensch und Computer!!
 
 ## Workshop description as PDF
 
