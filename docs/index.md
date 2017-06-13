@@ -11,25 +11,23 @@ The Makerspace will replace the workshop **"Academic practices in (community) in
 The purpose of the makerspace is to learn about making, meet other makers and hackers or people interested in making.
 
 There will a short program in which you can participate:
-    * short workshops about community innovation and academic practices around Fab Labs
-    * short presentations with Q&A
-    * hands-on workshops on making. E.g. 3d-printing, upcycling or playful 3d design
 
-There will also be a showroom with artifacts from the Fab Lab Siegen, some demos and projects of students of the university of Siegen.
+* short workshops about community innovation and academic practices around Fab Labs
+* short presentations with Q&A
+* hands-on workshops on making. E.g. 3d-printing, upcycling or playful 3d design
 
-The motto of makerspace is 'make, hack, learn and share' and is organized by the FabLab Siegen and university of Siegen. 
+There will also be a showroom with artifacts from the Fab Lab Siegen, some demos and projects of students of the University of Siegen.
 
-This workshop at [MuC 2017 conference](http://muc2017.mensch-und-computer.de/) is intended to illustrate cases of Fab Labs, Makerspaces, Urban Labs and similar hubs at or in cooperation with academic institutions. Its goal is to provide a forum for discussing how such communities and spaces influence and are influenced by teaching, learning, research, outreach and dissemination as well as on challenges and perspectives in establishing, running and integrating such communities with other aspects of academic work. Interested in [participating](/participate)?
+The motto of makerspace is 'make, hack, learn and share' and is organized by the FabLab Siegen and University of Siegen in cooperation with TU Berlin.
+
+Interested in [participating](/participate)?
 
 ## Important Dates
-#### June 16, 2017: [submission](/participate) deadline
-#### June 23, 2017: notification of acceptance / program update
-#### July 07, 2017: deadline for camera ready submission
-#### September 10, 2017: workshop at Mensch und Computer
+#### September 11, 2017: Maker Space at Mensch und Computer
 
 ## Workshop description as PDF
 
-The full [proposal for the Workshop at Muc in PDF form](/images/2017MuCwsdigifabacademicpractices.pdf) contains most of the information reflected on this website as well as additional references.
+The full [proposal for the Workshop at Muc in PDF form](/images/2017MuCwsdigifabacademicpractices.pdf) contains the original information of the workshop (and the research focus of the organizers) as well as additional references.
 
 
 ----
