@@ -1,7 +1,8 @@
-## Oliver Stickel <img class="profilpicture"  src="/images/os.jpg">
+## Oliver Stickel <img class="profilpicture" width="30%" height="30%" src="images/os.jpg">
 University of Siegen | [Website](http://www.cscw.uni-siegen.de/team/stickel/) | [Mail](mailto:oliver.stickel@uni-siegen.de)
 
 Oliver is founder and coordinator of the university’s [Fab Lab](http://fablab-siegen.de/), researcher, general project instigator and lecturer in HCI- and Maker-methods. He has published on digital fabrication, field studies involving 3D printing in Palestine, regional innovation communities and agile methods.
+
 
 
 
@@ -12,16 +13,19 @@ Melanie has a background in Anthropology and Computer Science and a PhD in Commu
 
 
 
+
 ## Jiannis Giatagantzidis  <img class="profilpicture" src="http://www.cscw.uni-siegen.de/wp-content/uploads/2016/09/Passbild_Jiannis-Giatagantzidis-233x300.png">
 University of Siegen | [Website](http://www.cscw.uni-siegen.de/team/giatagantzidis/) | [Mail](mailto:jiannis.giatagantzidis@uni-siegen.de)
 
 Jiannis studied media science and has a special interest in making music with synthesizers or rather the history of the (moog-) synthesizer. Being concerned with actor-network-theory and social construction of technology, he is convinced that there is an inseparable association between technological and social factors in the development of artifacts. Also being involved in architectural model building he got into using 3D-Printing and one of his current interests is, how tinker cultures and easy access to media of digital fabrication can force the development of music instruments or its interfaces. 
 
 
-## Marios Mouratidis  <img class="profilpicture" src="/images/mm.jpg">
+
+## Marios Mouratidis  <img class="profilpicture" width="30%" height="30%" src="images/mm.jpg">
 University of Siegen | [Website](http://empunkt.com/) | [Mail](mailto:marios.mouratidis@uni-siegen.de)
 
 Marios is a freelance media designer (web, print, mobile), entrepreneur and senior student of HCI in Siegen, with an academic background in Cultural and Media Studies and Linguistics. Currently he is the project coordinator of the intercultural academic research exchange [YALLAH](http://yallah.exchange/) (You All Are Hackers), Computer Club Coordinator of a come_IN Computerclub in the refugee camp Al’Amari located close to the city center of Ramallah, Palestine. He has published on Community Informatics in political unstable situations, a field study involving upcycling and making activities in Germany and Palestine. Amongst his research interests is also 3D printing, user experience design, usability and visual communication.   
+
 
 
 ## Volkmar Pipek <img class="profilpicture" src="http://www.cscw.uni-siegen.de/wp-content/uploads/2016/05/volkmar-pipek-sm-1-150x150.jpg">
