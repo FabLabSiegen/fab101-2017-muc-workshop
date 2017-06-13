@@ -1,13 +1,23 @@
 # Academic practices in (community) innovation and (digital) fabrication
 
-> *Workshop at the [Mensch und Computer](http://muc2017.mensch-und-computer.de/) 2017 conference in Regensburg, Germany*
+> *Workshop made into Maker Space at the [Mensch und Computer](http://muc2017.mensch-und-computer.de/) 2017 conference in Regensburg, Germany*
 
 </br>
 ![3D printing workshop](/images/3dp-1.jpg)
 
-## About the workshop
+## About the workshop / maker space
 
-3D printing has become an area of intense interest in a variety of contexts in research and practice ranging from industry through education, humanitarian to innovation. At the same time, technologies, materials, usages and appropriation are in constant flux. 3D printing is, however just one of the many facets of digital fabrication, the digitalization of more and more sectors and increasingly community-based innovation and open/commons-oriented engineering practices.
+The Makerspace will replace the workshop "Academic practices in (community) innovation and (digital) fabrication" and will take place on Monday during the conference. It will be open and accessible for passers-by and intends to present a mix of showroom, hands-on workshops area, speakers-corner and opportunity for networking. There will be some 3d printers, a lasercutter, tools and other fancy stuff for everyone to experiment, create, learn and share your knowledge.
+The purpose of the makerspace is to learn about making, meet other makers and hackers or people interested in making.
+
+There will a short program in which you can participate:
+    short workshops about community innovation and academic practices around Fab Labs
+    short presentations with Q&A
+    hands-on workshops on making. E.g. 3d-printing, upcycling or playful 3d design
+
+There will also be a showroom with artifacts from the Fab Lab Siegen, some demos and projects of students of the university of Siegen.
+
+The motto of makerspace is 'make, hack, learn and share' and is organized by the FabLab Siegen and university of Siegen. 
 
 This workshop at [MuC 2017 conference](http://muc2017.mensch-und-computer.de/) is intended to illustrate cases of Fab Labs, Makerspaces, Urban Labs and similar hubs at or in cooperation with academic institutions. Its goal is to provide a forum for discussing how such communities and spaces influence and are influenced by teaching, learning, research, outreach and dissemination as well as on challenges and perspectives in establishing, running and integrating such communities with other aspects of academic work. Interested in [participating](/participate)?
 
