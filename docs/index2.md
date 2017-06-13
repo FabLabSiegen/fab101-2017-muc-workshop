@@ -5,7 +5,7 @@
 </br>
 ![3D printing workshop](/images/3dp-1.jpg)
 
-## About the workshop
+## About the workshop 
 
 3D printing has become an area of intense interest in a variety of contexts in research and practice ranging from industry through education, humanitarian to innovation. At the same time, technologies, materials, usages and appropriation are in constant flux. 3D printing is, however just one of the many facets of digital fabrication, the digitalization of more and more sectors and increasingly community-based innovation and open/commons-oriented engineering practices.
 
