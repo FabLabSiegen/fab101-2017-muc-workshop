@@ -31,6 +31,8 @@ Interessiert an einer [Teilnahme](/participate)?
 
 Der vollständige [Proposal für den ursprünglich konzipierten Workshop auf der Muc als PDF](/images/2017MuCwsdigifabacademicpractices.pdf) mit zusätzlichen Informationen zum Forschungsschwerpunkt der Organisatoren und Referenzen.
 
+
+
 > *English version*
 
 ## About the workshop / makerspace
