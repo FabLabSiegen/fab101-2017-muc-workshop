@@ -1,6 +1,7 @@
 # Maker Space: Academic practices in (community) innovation and (digital) fabrication
 
 > *Maker Space als Workshop-Format auf der [Mensch und Computer](http://muc2017.mensch-und-computer.de/) 2017 Konferenz in Regensburg*
+
 > *Workshop made into Maker Space at the [Mensch und Computer](http://muc2017.mensch-und-computer.de/) 2017 conference in Regensburg, Germany*
 
 
