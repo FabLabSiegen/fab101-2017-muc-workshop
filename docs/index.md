@@ -19,18 +19,19 @@ Es wird ein offenes Workshop Programm mit kurzen Sessions zu folgenden Themen ge
 * Kurzpräsentationen mit Möglichkeit zur Diskussion
 * Praktische workshops zu Making. wie 3D Drucken, Upcycling oder spielerisches 3D Design
 
-There will also be a showroom with artifacts from the Fab Lab Siegen, some demos and projects of students of the University of Siegen.
+Zudem wird es einen Showroom mit Objekten aus dem Fab Lab Siegen geben: Demos, Forschungsprojekte und Studierendenprojekte der University of Siegen.
+Das Motto des makerspaces ist 'make, hack, learn and share' und der Space wird orgsnisiert von dem FabLab Siegen und der Universität Siegen in Kooperation mit der TU Berlin.
 
-The motto of makerspace is 'make, hack, learn and share' and is organized by the FabLab Siegen and University of Siegen in cooperation with TU Berlin.
+Interessiert an einer [Teilnahme](/participate)?
 
-Interested in [participating](/participate)?
+## Wichtige Daten
+#### 11 September, 2017: Zum Maker Space auf der Mensch und Computer kommen!!
 
-## Important Dates
-#### September 11, 2017: Come to the Maker Space at Mensch und Computer!!
+## Workshop Beschreibung als PDF
 
-## Workshop description as PDF
+Der vollständige [Proposal für den ursprünglich konzipierten Workshop auf der Muc als PDF](/images/2017MuCwsdigifabacademicpractices.pdf) mit zusätzlichen Informationen zum Forschungsschwerpunkt der Organisatoren und Referenzen.
 
-The full [proposal for the Workshop at Muc in PDF form](/images/2017MuCwsdigifabacademicpractices.pdf) contains the original information of the workshop (and the research focus of the organizers) as well as additional references.
+> *English version*
 
 ## About the workshop / makerspace
 
