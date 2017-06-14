@@ -25,7 +25,7 @@ Das Motto des makerspaces ist 'make, hack, learn and share' und der Space wird o
 Interessiert an einer [Teilnahme](/participate)?
 
 ## Wichtige Daten
-#### 11 September, 2017: Zum Maker Space auf der Mensch und Computer kommen!!
+__11 September, 2017: Zum Makerspace auf der Mensch und Computer kommen!!__
 
 ## Workshop Beschreibung als PDF
 
@@ -53,7 +53,7 @@ The motto of makerspace is 'make, hack, learn and share' and is organized by the
 Interested in [participating](/participate)?
 
 ## Important Dates
-#### September 11, 2017: Come to the Maker Space at Mensch und Computer!!
+__September 11, 2017: Come to the Makerspace at Mensch und Computer!!__
 
 ## Workshop description as PDF
 
