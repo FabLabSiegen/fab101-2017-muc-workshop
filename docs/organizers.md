@@ -1,4 +1,4 @@
-## Oliver Stickel <img class="profilpicture" width="30%" height="30%" src="images/os.jpg">
+## Oliver Stickel <img class="profilpicture" src="/images/os.jpg">
 University of Siegen | [Website](http://www.cscw.uni-siegen.de/team/stickel/) | [Mail](mailto:oliver.stickel@uni-siegen.de)
 
 Oliver is founder and coordinator of the university’s [Fab Lab](http://fablab-siegen.de/), researcher, general project instigator and lecturer in HCI- and Maker-methods. He has published on digital fabrication, field studies involving 3D printing in Palestine, regional innovation communities and agile methods.
@@ -21,7 +21,7 @@ Jiannis studied media science and has a special interest in making music with sy
 
 
 
-## Marios Mouratidis  <img class="profilpicture" width="30%" height="30%" src="images/mm.jpg">
+## Marios Mouratidis  <img class="profilpicture" src="/images/mm.jpg">
 University of Siegen | [Website](http://empunkt.com/) | [Mail](mailto:marios.mouratidis@uni-siegen.de)
 
 Marios is a freelance media designer (web, print, mobile), entrepreneur and senior student of HCI in Siegen, with an academic background in Cultural and Media Studies and Linguistics. Currently he is the project coordinator of the intercultural academic research exchange [YALLAH](http://yallah.exchange/) (You All Are Hackers), Computer Club Coordinator of a come_IN Computerclub in the refugee camp Al’Amari located close to the city center of Ramallah, Palestine. He has published on Community Informatics in political unstable situations, a field study involving upcycling and making activities in Germany and Palestine. Amongst his research interests is also 3D printing, user experience design, usability and visual communication.   
