@@ -1,14 +1,13 @@
-site_name: 'Academic practices in (community) innovation and (digital) fabrication'
+site_name: 'MuC Makerspace 2017'
 repo_url: 'https://github.com/FabLabSiegen/fab101-2017-muc-workshop'
-repo_name: 'fablabsiegen:muc-ws'
+repo_name: 'fablabsiegen:muc-ms'
 site_favicon: 'images/favicon-32x32.png'
 
 pages:
-    - About: 'index.md'
-    - Makerspace : 'makerspace.md'
+    - MuC Makerspace: 'index.md'
+    - Program : 'program.md'
+    - Location : 'location.md'    
     - Organizers: 'organizers.md'
-    - Participate: 'participate.md'
-    - Proceedings: 'proceedings.md'
     - Imprint: 'imprint.md'
 
 
