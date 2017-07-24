@@ -15,7 +15,7 @@ The motto of makerspace is *'make, hack, learn, share'* and is organized by [Fab
 
 ## Über den Workshop / Makerspace
 
-Der Makerspace ersetzt den Workshop **"Academic practices in (community) innovation and (digital) fabrication"** und wird am Montag den 11 September auf der Konferenz zum Besuch einladen. Er ist als offener begehbarer Ort konzipiert der Laufpublikum ebenso ansprechen soll wie gezielt interessierte Besucher. Der Space ist sowohl Showroom als auch Workshop Bereich, Ort für Kurzpräsentationen und bietet informelle Gelegenheit zum Austausch. Es wird ein paar 3D Drucker geben, einen Lasercutter, Werkzeug und andere Ausstattung die zum Experimentieren, Ausprobieren, Basteln und Austausch beiträgt.
+Der Makerspace ersetzt den Workshop **"Academic practices in (community) innovation and (digital) fabrication"** und wird am Montag den 11 September auf der Konferenz zum Besuch einladen. Er ist als offener begehbarer Ort konzipiert der Laufpublikum ebenso ansprechen soll wie gezielt interessierte Besucher. Der Space ist sowohl Showroom als auch Workshop Bereich, Ort für Kurzpräsentationen und bietet informelle Gelegenheit zum Austausch. Es wird ein paar 3D Drucker geben, einen Lasercutter, Werkzeug und andere Ausstattung, die zum experimentieren, ausprobieren, basteln und Austausch beiträgt.
 Ziel des Makerspaces ist es ebenso alle diejenigen zu erreichen die keine Vorstellung davon haben was "Making" eigentlich ist, wie auch erfahrene Maker und Hacker eine Gelegenheit zum Austausch geben.
 
 Es wird ein offenes Workshop Programm "zum Vorbeigehen" geben:
