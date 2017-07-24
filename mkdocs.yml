@@ -1,6 +1,6 @@
 site_name: 'MuC Makerspace 2017'
-repo_url: 'https://github.com/FabLabSiegen/fab101-2017-muc-workshop'
-repo_name: 'fablabsiegen:muc-ms'
+#repo_url: 'https://github.com/FabLabSiegen/fab101-2017-muc-workshop'
+#repo_name: 'fablabsiegen:muc-ms'
 site_favicon: 'images/favicon-32x32.png'
 
 pages:
