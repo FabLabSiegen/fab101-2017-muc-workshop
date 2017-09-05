@@ -24,7 +24,7 @@ Es wird ein offenes Workshop Programm "zum Vorbeigehen" geben:
 * Mini-Workshops und Kontaktmöglichkeiten zum 3D-Drucken, Lasercutting, Löten und mehr.
 * Showroom mit Projekten / Objekten aus echten Fab Labs und Makerspaces. 
 
-Das Motto des MuC-Makerspace ist 'make, hack, learn, share' und der Space wird orgsnisiert vom [FabLab Siegen](http://fablab-siegen.de/), der [Universität Siegen](http://www.uni-siegen.de/start/), der [TU Berlin](http://www.tu-berlin.de/menue/home/) sowie dem [Binary Kitchen](https://www.binary-kitchen.de) Hack Space.
+Das Motto des MuC-Makerspace ist 'make, hack, learn, share' und der Space wird organisiert vom [FabLab Siegen](http://fablab-siegen.de/), der [Universität Siegen](http://www.uni-siegen.de/start/), der [TU Berlin](http://www.tu-berlin.de/menue/home/) sowie dem [Binary Kitchen](https://www.binary-kitchen.de) Hack Space.
 
 
 
