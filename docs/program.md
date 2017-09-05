@@ -3,14 +3,25 @@
 ## Monday, Sept. 11: MuC Makerspace
 
 
-**Full-day Makerspace at MuC. Drop in any time!**
+**Design your own creation in Virtual Reality and 3D print it!**  
+  - Whole day:  drop in whenever you have time  
+  
+**Discuss & leave your thoughts about Makerspaces and Academia**  
+  - Whole day: drop in whenever you have time  
 
-* Short workshops about community innovation and academic practices around Fab Labs
-* Hands-on opportunities with Fab Lab equipment such as 3d printers, laser cutters or soldering equipment
-* Exhibition with Maker-projects /artifacts. Feel free to bring and share you own!
+**Guided Makerspace & Demo tour**  
+  - 10.45 am - 11.15 am  
+  - 1.30 pm - 2.00 pm  
+  
+**Soldering Workshop. **  
+  - 2.00 pm - 3.30 pm  
+  - Details see **[HERE](https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:loetworkshop1)**  
+   
 
-## Tuesday, Sept. 11: Field trip
+## Tuesday, Sept. 12: Field trip
 
 **Trip to [Binary Kitchen](https://www.binary-kitchen.de) Hack Space** 
 
-* (details will follow)
+* 5.00 pm - 7.00 pm
+* We will meet at the Makerspace at 5.00 pm and take the bus to the Hack Space
+* The guided tour through the Hack Space will take about an hour

@@ -10,7 +10,7 @@
 The Makerspace will replace the workshop [*Academic practices in (community) innovation and (digital) fabrication*](http://muc2017.mensch-und-computer.de/programm/workshops/#ws16) and will take place on Monday during the conference. It will be open and accessible for passers-by and intends to present a mix of showroom, hands-on workshops area, speakers-corner and opportunity for networking. There will be some 3d printers, a lasercutter, tools and other Fab Lab equipment for everyone to experiment, create, learn and share your knowledge. The purpose of the Makerspace is to connect people interested in "Making" in/with academic contexts as well as in cooperation with other communities.
 
 
-The motto of makerspace is *'make, hack, learn, share'* and is organized by [FabLab Siegen](www.fablab-siegen.de), [University of Siegen](www.uni-siegen.de), der [TU Berlin](www.tu-berlin.de), [planraum](http://planraum.org/) and [Binary Kitchen](https://www.binary-kitchen.de) Hack Space.
+The motto of makerspace is *'make, hack, learn, share'* and is organized by [FabLab Siegen](www.fablab-siegen.de), [University of Siegen](www.uni-siegen.de), der [TU Berlin](www.tu-berlin.de) and [Binary Kitchen](https://www.binary-kitchen.de) Hack Space.
 
 
 ## Über den Workshop / Makerspace
@@ -24,7 +24,7 @@ Es wird ein offenes Workshop Programm "zum Vorbeigehen" geben:
 * Mini-Workshops und Kontaktmöglichkeiten zum 3D-Drucken, Lasercutting, Löten und mehr.
 * Showroom mit Projekten / Objekten aus echten Fab Labs und Makerspaces. 
 
-Das Motto des MuC-Makerspace ist 'make, hack, learn, share' und der Space wird orgsnisiert vom [FabLab Siegen](http://fablab-siegen.de/), der [Universität Siegen](http://www.uni-siegen.de/start/), der [TU Berlin](http://www.tu-berlin.de/menue/home/) sowie dem [planraum](http://planraum.org/) und dem [Binary Kitchen](https://www.binary-kitchen.de) Hack Space.
+Das Motto des MuC-Makerspace ist 'make, hack, learn, share' und der Space wird orgsnisiert vom [FabLab Siegen](http://fablab-siegen.de/), der [Universität Siegen](http://www.uni-siegen.de/start/), der [TU Berlin](http://www.tu-berlin.de/menue/home/) sowie dem [Binary Kitchen](https://www.binary-kitchen.de) Hack Space.
 
 
 
