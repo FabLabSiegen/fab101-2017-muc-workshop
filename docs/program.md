@@ -13,9 +13,11 @@
   - 10.45 am - 11.15 am  
   - 1.30 pm - 2.00 pm  
   
-**Soldering Workshop. **  
+**Soldering Workshop **  
   - 2.00 pm - 3.30 pm  
-  - Details see **[HERE](https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:loetworkshop1)**  
+  - Details see **[HERE](https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:loetworkshop_muc)**  
+  
+![Soldering workshop](/images/soldering2.jpg) Previous soldering workshop.
    
 
 ## Tuesday, Sept. 12: Field trip
