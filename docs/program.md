@@ -14,7 +14,7 @@
   - 1.30 pm - 2.00 pm  
   
 **Soldering Workshop **  
-  - 2.00 pm - 3.30 pm  
+  - 2.30 pm - 4.00 pm  
   - Details see **[HERE](https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:loetworkshop_muc)**  
   
 ![Soldering workshop](/images/soldering2.jpg) Previous soldering workshop.
